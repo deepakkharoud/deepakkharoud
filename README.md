@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepakkharoud
-- 👀 I’m interested in System Level Programming
-- 🌱 I’m currently learning about Linux Kernels,Android Internals and AOSP
+- 👀 I’m interested in DevOPS, Linux and Cloud Computing
+- 🌱 I’m currently learning about Linux, Cloud Infrastructures, Docker and DevOPS.
 - 📫 How to reach me deepakofficiallkh06@gmail.com
 - 😄 Pronouns: he/him
 
